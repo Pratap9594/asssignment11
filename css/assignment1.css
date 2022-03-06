@@ -1,0 +1,26 @@
+.header
+{
+    background-color: cyan;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100px;
+    line-height: 200px;
+}
+.sidebar{
+    background-color: aliceblue;
+    line-height: 300px;
+    width: 20px;
+    text-align: center;
+    float: right;
+  margin-bottom: 10px;
+}
+.footer{
+    background-color: aqua;
+    width: 100px;
+    text-align: center;
+    clear: both;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
