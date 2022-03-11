@@ -1,0 +1,36 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-weight: bold;
+}
+
+.header ,.navbar{
+    background-color: brown;
+    height: 100px;
+    width: 1500px;
+    text-align: center;
+}
+
+.main{
+    background-color: deepskyblue;
+    width: 650px;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+.artical{
+    background-color: blue;
+    height: 100px;
+    width: 700px;
+    float: left;
+    text-align: center;
+}
+.side {
+    background-color:red;
+    height: 200px;
+    width: 120px;
+    float: right;
+    text-align: center;
+}
+
