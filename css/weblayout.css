@@ -1,0 +1,67 @@
+
+
+.header{
+    width: 1200px;
+    height: 150px;
+    background-color: blueviolet;
+    
+}
+.branding{
+    background-color: brown;
+    font-style: normal;
+    height: 150px;
+    width: 400px;
+    float: left;
+
+}
+.social{
+    background-color: crimson;
+    font-size: medium;
+    text-align: center;
+    height: 100px;
+    width: 800px;
+    float: left;
+}
+.menu{
+    background-color: burlywood;
+    text-align: center;
+    width: 800px;
+    height: 50px;
+    float: left;
+}
+.gallery{
+    width: 1200px;
+    height: 400px;
+    background-color: gray;
+    
+}
+.bootcamp{
+    height: 100px;
+    width: 200px;
+    float: left;
+    background-color: orangered;
+
+}
+.cloud{
+    height: 100px;
+    width: 200px;
+    float: left;
+    background-color: yellow;
+}
+.ml{
+    height: 100px;
+    width: 200px;
+    float: left;
+    background-color: goldenrod;
+}
+.dsa{
+    height: 100px;
+    width: 200px;
+    float: left;
+    background-color: greenyellow;
+}
+.footer{
+    width: 200px;
+    height: 150px;
+    background-color:green;
+}
