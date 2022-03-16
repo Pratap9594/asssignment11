@@ -1,18 +1,19 @@
-
-
+.main{
+    width: 1200px;;
+    height: 1000px;
+    background-color: yellow;
+    margin: auto;
+}
 .header{
     width: 1200px;
     height: 150px;
-    background-color: blueviolet;
-    
+    background-color: lightpink;
 }
 .branding{
-    background-color: brown;
-    font-style: normal;
-    height: 150px;
     width: 400px;
+    height: 150px;
+    background-color: palegreen;
     float: left;
-
 }
 .social{
     background-color: crimson;
@@ -22,6 +23,7 @@
     width: 800px;
     float: left;
 }
+
 .menu{
     background-color: burlywood;
     text-align: center;
@@ -29,39 +31,51 @@
     height: 50px;
     float: left;
 }
+.container{
+    width: 1200px;
+    height: 800px;
+    background-color: orange;
+}
 .gallery{
     width: 1200px;
     height: 400px;
     background-color: gray;
+    text-align: center;
     
 }
+.courses{
+    width: 1200px; ;
+    height: 400px; ;
+    background-color: darkorchid;
+}
 .bootcamp{
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 300px;
     float: left;
     background-color: orangered;
 
 }
 .cloud{
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 300px;
     float: left;
-    background-color: yellow;
+    background-color:red;
 }
 .ml{
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 300px;
     float: left;
     background-color: goldenrod;
 }
 .dsa{
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 300px;
     float: left;
     background-color: greenyellow;
 }
 .footer{
-    width: 200px;
+    width: 1200px;
     height: 150px;
     background-color:green;
+    text-align: center;
 }
